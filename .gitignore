@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *.ipynb
 /report
+/zhaohao_zeng_5115fg24-4
 
 # C extensions
 *.so
